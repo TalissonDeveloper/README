@@ -1,8 +1,3 @@
-# README
-Claro, aqui está um texto que você pode usar para o README do seu perfil no GitHub:
-
----
-
 # Olá, sou Talisson Souza 👋
 
 Sou o CEO da [CheetahSolutions]([https://cheetahsolutions.com](https://github.com/CheetahSolutions)) e da [CypherCloud](https://discord.gg/YpsFzkWQcG). Minha paixão é liderar equipes inovadoras e desenvolver soluções tecnológicas que transformam ideias em realidade.
